@@ -24,7 +24,7 @@ public class QuestionAChoixExclusifTest {
 
         /* Then */
         // L'énoncé retourné est l'énoncé fourni à la construction de la question
-        assertEquals("Quelle est la couleur du ciel?", qE);
+        assertEquals("Quelle est la couleur du ciel?", qenonce);
     }
 
     @Test
